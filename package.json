@@ -1,0 +1,22 @@
+{
+  "name": "ng-autocomplete-commonjs",
+  "version": "1.0.0",
+  "description": "A simple directive for adding google places autocomplete to a textbox element.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanford/ngAutocomplete.git"
+  },
+  "author": "Jack Hanford <jackhanford@gmail.com> (http://jackhanford.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanford/ngAutocomplete/issues"
+  },
+  "homepage": "https://github.com/hanford/ngAutocomplete#readme"
+}
