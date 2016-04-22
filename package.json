@@ -2,7 +2,7 @@
   "name": "ng-autocomplete-commonjs",
   "version": "1.0.0",
   "description": "A simple directive for adding google places autocomplete to a textbox element.",
-  "main": "index.js",
+  "main": "./src/ngAutocomplete.js.js",
   "directories": {
     "example": "examples"
   },
